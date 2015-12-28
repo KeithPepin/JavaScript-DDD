@@ -1,0 +1,25 @@
+{
+  "name": "JavaScript-DDD",
+  "version": "0.0.1",
+  "description": "Work and excercises based on the book JavaScript Domain-Driven Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeithPepin/JavaScript-DDD.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "DDD",
+    "Domain-Driven",
+    "Design"
+  ],
+  "author": "Keith Pepin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KeithPepin/JavaScript-DDD/issues"
+  },
+  "homepage": "https://github.com/KeithPepin/JavaScript-DDD"
+}
